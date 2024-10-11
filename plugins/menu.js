@@ -1,1 +1,107 @@
-const _0x2cfe64=_0x2fca;(function(_0x3ffa7e,_0x3891a9){const _0x5a7a8a=_0x2fca,_0x400d25=_0x3ffa7e();while(!![]){try{const _0x254ced=-parseInt(_0x5a7a8a(0x102))/0x1+-parseInt(_0x5a7a8a(0x110))/0x2*(-parseInt(_0x5a7a8a(0x104))/0x3)+parseInt(_0x5a7a8a(0x100))/0x4*(-parseInt(_0x5a7a8a(0x118))/0x5)+parseInt(_0x5a7a8a(0x10d))/0x6*(parseInt(_0x5a7a8a(0x10e))/0x7)+-parseInt(_0x5a7a8a(0x105))/0x8+parseInt(_0x5a7a8a(0x107))/0x9+-parseInt(_0x5a7a8a(0x10b))/0xa;if(_0x254ced===_0x3891a9)break;else _0x400d25['push'](_0x400d25['shift']());}catch(_0x423b10){_0x400d25['push'](_0x400d25['shift']());}}}(_0x1735,0xe9ded));function _0x1735(){const _0x154a2d=['\x0a┌────────────────\x0a│❖\x20*ᴜᴘᴛɪᴍᴇ\x20:*\x20_','11944020RaHcAE','MB_\x0a│❖\x20*ʜᴏꜱᴛ\x20ɴᴀᴍᴇ\x20:*\x20_','255018aHgWuU','301FEUWtF','sendMessage','3522YnhSsX','totalmem','menu','../lib/functions','https://i.ibb.co/tZzBS47/image.jpg','../command','uptime','\x0a*🌸\x20Hi*\x20','1445QKVtoL','memoryUsage','MB\x20/\x20','toFixed','9224ZTqLHR','_\x0a│❖\x20*ᴏᴡɴᴇʀ\x20:*\x20_Asᴍᴏᴅᴇᴜs\x20Eᴘᴢɪ_\x0a└────────────────\x0a*Epzige\x20Cudu\x20Nona\x20is\x20Here*👸🏻\x0a┌────────────\x0a❖\x20*📚ALL\x20COMMANDS📚*└────────────\x0a┌────────────\x0a❖\x20*📥DOWNLOAD\x20COMMANDS📥*\x0a│\x0a│\x20✑\x20_.song_\x0a│\x20✑\x20_.video_\x0a│\x20✑\x20_.fb_\x0a│\x20✑\x20_.facebook_\x0a│\x20✑\x20_.tt_\x0a│\x20✑\x20_.tiktok_\x0a│\x20✑\x20_.ig_\x0a│\x20✑\x20_.twdl_\x0a│\x20✑\x20_.twitter_\x0a│\x20✑\x20_.gdrive_\x0a│\x20✑\x20_.apk_\x0a│\x20✑\x20_.mediafire_\x0a└────────────\x0a┌────────────\x0a❖\x20*🔎SEARCH\x20COMMANDS🔎*\x0a│\x0a│\x20✑\x20_.img_\x0a│\x20✑\x20_.pinterest_\x0a└────────────\x0a┌────────────\x0a❖\x20*🧚🏻ANIME\x20\x20COMMANDS🧚🏻*\x0a│\x0a│\x20✑\x20_.loli_\x0a│\x20✑\x20_.waifu_\x0a│\x20✑\x20_.neko_\x0a│\x20✑\x20_.megumin_\x0a│\x20✑\x20_.maid_\x0a│\x20✑\x20_.awoo_\x0a└────────────\x0a┌────────────\x0a❖\x20*👤OWNER\x20COMMANDS👤️*\x0a│\x0a│\x20✑\x20_.block_\x0a│\x20✑\x20_.unblock_\x0a│\x20✑\x20_.jid_\x0a│\x20✑\x20_.gjid_\x0a│\x20✑\x20_.clearchats_\x0a│\x20✑\x20_.restart_\x0a└────────────\x0a┌────────────\x0a❖\x20*🎊CONVERTED\x20COMMANDS🎊*\x0a│\x0a│\x20✑\x20_.sticker_\x0a│\x20✑\x20_.tts_\x0a└────────────\x0a┌────────────\x0a❖\x20*👸🏻AI\x20COMMANDS👸🏻*\x0a│\x0a│\x20✑\x20_.ai_\x0a│\x20✑\x20_.cgpt_\x0a└────────────\x0a┌────────────\x0a❖\x20*🎯GROUP\x20COMMANDS🎯*\x0a│\x0a│\x20✑\x20_.promote_\x0a│\x20✑\x20_.demote_\x0a│\x20✑\x20_.remove_\x0a│\x20✑\x20_.kick_\x0a│\x20✑\x20_.setwelcome_\x0a│\x20✑\x20_.setgoodbye_\x0a│\x20✑\x20_.getpic_\x0a└────────────\x0a┌────────────\x0a❖\x20*🧧MAIN\x20COMMANDS🧧*\x0a│\x0a│\x20✑\x20_.ping_\x0a│\x20✑\x20_.system_\x0a│\x20✑\x20_.owner_\x0a│\x20✑\x20_.src_\x0a└────────────\x0a\x0a>\x20*©ᴄʀᴇᴀᴛᴇᴅ\x20ʙʏ\x20Asᴍᴏᴅᴇᴜs\x20Eᴘᴢɪ\x20🧑🏻‍💻*\x0a','617131IOYZqJ','_\x0a│❖\x20*ʀᴀᴍ\x20ᴜꜱᴀɢᴇ\x20:*\x20\x20_','1533oIHOpr','1970056VhjMie','round','8591913MuDAiQ','hostname','main'];_0x1735=function(){return _0x154a2d;};return _0x1735();}function _0x2fca(_0x29de1a,_0x8a8d24){const _0x1735d7=_0x1735();return _0x2fca=function(_0x2fcaf8,_0x485c05){_0x2fcaf8=_0x2fcaf8-0xfd;let _0x488cd4=_0x1735d7[_0x2fcaf8];return _0x488cd4;},_0x2fca(_0x29de1a,_0x8a8d24);}const {cmd,commands}=require(_0x2cfe64(0x115)),os=require('os'),{runtime}=require(_0x2cfe64(0x113));cmd({'pattern':_0x2cfe64(0x112),'desc':_0x2cfe64(0x112),'category':_0x2cfe64(0x109),'react':'📚','filename':__filename},async(_0x35d635,_0x2e57a7,_0x3588ee,{from:_0x15e097,quoted:_0x3f2f22,body:_0x4ee678,isCmd:_0x209f8a,command:_0x324ab3,args:_0x189675,q:_0x13baf8,isGroup:_0x158a5e,sender:_0xc8d16e,senderNumber:_0x4f61d3,botNumber2:_0x38adb0,botNumber:_0x15a4bf,pushname:_0x521442,isMe:_0x5b3f78,isOwner:_0x2be835,groupMetadata:_0x1a4b0e,groupName:_0x241cb4,participants:_0x521e5e,groupAdmins:_0x51eaa4,isBotAdmins:_0x1d876b,isAdmins:_0x14bc12,reply:_0x43bd00})=>{const _0x528228=_0x2cfe64;try{let _0x5b4805=_0x528228(0x117)+_0x521442+_0x528228(0x10a)+runtime(process[_0x528228(0x116)]())+_0x528228(0x103)+(process[_0x528228(0xfd)]()['heapUsed']/0x400/0x400)[_0x528228(0xff)](0x2)+_0x528228(0xfe)+Math[_0x528228(0x106)](require('os')[_0x528228(0x111)]/0x400/0x400)+_0x528228(0x10c)+os[_0x528228(0x108)]()+_0x528228(0x101);return await _0x35d635[_0x528228(0x10f)](_0x15e097,{'image':{'url':_0x528228(0x114)},'caption':_0x5b4805},{'quoted':_0x2e57a7});}catch(_0x3b0f93){console['log'](_0x3b0f93),_0x43bd00(''+_0x3b0f93);}});
+const {cmd , commands} = require('../command')
+const os = require("os")
+const {runtime} = require('../lib/functions')
+
+cmd({
+    pattern: "menu",
+    desc: "menu",
+    category: "main",
+    react: "📚",
+    filename: __filename
+},
+async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+try{
+
+let desc = `
+*🌸 Hi* ${pushname}
+┌────────────────
+│❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
+│❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
+│❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
+│❖ *ᴏᴡɴᴇʀ :* _Asᴍᴏᴅᴇᴜs Eᴘᴢɪ_
+└────────────────
+*Epzige Cudu Nona is Here*👸🏻
+┌────────────
+❖ *📚ALL COMMANDS📚*└────────────
+┌────────────
+❖ *📥DOWNLOAD COMMANDS📥*
+│
+│ ✑ _.song_
+│ ✑ _.video_
+│ ✑ _.fb_
+│ ✑ _.facebook_
+│ ✑ _.tt_
+│ ✑ _.tiktok_
+│ ✑ _.ig_
+│ ✑ _.twdl_
+│ ✑ _.twitter_
+│ ✑ _.gdrive_
+│ ✑ _.apk_
+│ ✑ _.mediafire_
+└────────────
+┌────────────
+❖ *🔎SEARCH COMMANDS🔎*
+│
+│ ✑ _.img_
+│ ✑ _.pinterest_
+└────────────
+┌────────────
+❖ *🧚🏻ANIME  COMMANDS🧚🏻*
+│
+│ ✑ _.loli_
+│ ✑ _.waifu_
+│ ✑ _.neko_
+│ ✑ _.megumin_
+│ ✑ _.maid_
+│ ✑ _.awoo_
+└────────────
+┌────────────
+❖ *👤OWNER COMMANDS👤️*
+│
+│ ✑ _.block_
+│ ✑ _.unblock_
+│ ✑ _.jid_
+│ ✑ _.gjid_
+│ ✑ _.clearchats_
+│ ✑ _.restart_
+└────────────
+┌────────────
+❖ *🎊CONVERTED COMMANDS🎊*
+│
+│ ✑ _.sticker_
+│ ✑ _.tts_
+└────────────
+┌────────────
+❖ *👸🏻AI COMMANDS👸🏻*
+│
+│ ✑ _.ai_
+│ ✑ _.cgpt_
+└────────────
+┌────────────
+❖ *🎯GROUP COMMANDS🎯*
+│
+│ ✑ _.promote_
+│ ✑ _.demote_
+│ ✑ _.remove_
+│ ✑ _.kick_
+│ ✑ _.setwelcome_
+│ ✑ _.setgoodbye_
+│ ✑ _.getpic_
+└────────────
+┌────────────
+❖ *🧧MAIN COMMANDS🧧*
+│
+│ ✑ _.ping_
+│ ✑ _.system_
+│ ✑ _.owner_
+│ ✑ _.src_
+└────────────
+
+> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ 🧑🏻‍💻*
+`
+return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/tZzBS47/image.jpg`},caption: desc},{quoted: mek})
+}catch(e){
+console.log(e)
+reply(`${e}`)
+}
+})
